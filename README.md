@@ -1,18 +1,13 @@
-## Getting Started
+## Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+* Projeto proposto no Santander Bootcamp 2023 - Backend Java.
+* Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
+  
+![diagrama de classe](https://github.com/AnaHaubert/Desafio-Diagramacao-Classes-iPhone/assets/98548464/3f878a10-e275-475f-8dab-e2338a8835cc)
 
-## Folder Structure
+🛠️ Tecnologia
+- Java
+- UML
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- ## 📧 Contato 
+anachaubertf@gmail.com
